@@ -1,4 +1,4 @@
-# Port Scanner
+# Winsock Port Scanner
 
 ## Description
 
